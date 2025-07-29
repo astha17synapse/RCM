@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+groq
+python-multipart
+sounddevice
+numpy
+sounddevice
+scipy
+requests
+python-dotenv
